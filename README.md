@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Craps
 A Casino Game
 
@@ -25,9 +24,3 @@ game = Craps(player_name='Austin', starting_money=1000)
 game.play(25)
 ```
 3. Rinse and repeat step 2 until you're broke or happy with your balance.
-=======
-# Craps-Game
- Casino Game
-
-Exercise completed in the context of the Dunder Data Courses.
->>>>>>> accd01cb526e82cb6ce382cb7edb81e83b175f18
